@@ -20,6 +20,8 @@
 		<p>
 			Se no seu tutorial precisar utilizar outros plugins ou libraries, basta adicioná-los no repositório <code>assets/js/plugins</code> e/ou <code>assets/css/plugins</code>, conforme o tipo do arquivo.
 		</p>
+
+		<p>Sempre que um tutorial tiver um exemplo, deverá utilizar essa estrutura.</p>
 </div>
 
 <?php $this->load->view('commons/rodape'); ?>
