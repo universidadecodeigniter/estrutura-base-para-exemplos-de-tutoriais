@@ -15,3 +15,5 @@ Sempre que um tutorial tiver um exemplo, deverá utilizar essa estrutura.
 ## Quer ser um autor no portal?
 
 Qualquer desenvolvedor com conhecimento em CodeIgniter pode publicar conteúdo no portal. Para isso basta preparar um post e enviar para a curadoria através do email contato@universidadecodeigniter.com.br. Ao enviar o post, envie as imagens utilizadas no tutorial e o código-fonte de exemplo - seguindo o padrão desse repositório - tudo em um único arquivo compactado.
+
+http://www.universidadecodeigniter.com.br
