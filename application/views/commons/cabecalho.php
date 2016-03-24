@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Descrição do tutorial/exemplo">
     <meta name="author" content="Universidade CodeIgniter">
-    <link rel="icon" href="../../favicon.ico">
+    <link rel="icon" href="<?=base_url('assets/images/unici/favicon.png')?>">
 
     <title>Título do Tutorial/Exemplo</title>
 
